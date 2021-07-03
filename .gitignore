@@ -351,3 +351,6 @@ MigrationBackup/
 
 # Dataset ignore
 datasets/
+
+# Trained models
+road_segmentation/models/
