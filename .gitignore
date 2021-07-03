@@ -354,3 +354,9 @@ datasets/
 
 # Trained models
 road_segmentation/models/
+
+# Videos
+videos/
+
+# ipython checkpoint files
+road_segmentation/.ipynb_checkpoints/
